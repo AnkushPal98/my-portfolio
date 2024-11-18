@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "Abit about my self",
-    aboutme: "I have graduated in 2020 with majors computer science engineering from Bharat Institute of Technology. With a passion for user-centric design, I've contributed to dynamic content loading and real-time data updates, ensuring responsive UI/UX that aligns with our clients needs.",
+    aboutme: "I have graduated in 2020 with majors computer science engineering from Bharat Institute of Technology. From past 3 years I have been exploring the frontend development field majorly focused on React.js and Angular framework. With a passion for user-centric design, I've contributed to dynamic content loading and real-time data updates, ensuring responsive UI/UX that aligns with our clients needs.",
 };
 const worktimeline = [{
         jobtitle: "Product Engineer",
