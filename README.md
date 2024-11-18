@@ -4,7 +4,7 @@ A simple portfolio for developer/designers built with React.
 
 ### [live preview]()
 
-<!-- [![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)]() -->
+[![react portfoiio](src/assets/images/react-portfolio.jpg)]
 
 ### Features
 
