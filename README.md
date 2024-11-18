@@ -2,7 +2,7 @@
 
 A simple portfolio for developer/designers built with React. 
 
-### [live preview]()
+### [live preview](https://my-portfolio-pi-five-22.vercel.app/)
 
 ### Features
 
