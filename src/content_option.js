@@ -2,7 +2,7 @@ const logotext = "ANKUSH";
 const meta = {
   title: "Ankush Pal",
   description:
-    "I’m Ankush Pal Full stack developer,currently working in Bangalore.",
+    "I’m Ankush Pal Full stack developer, currently located in Noida.",
 };
 
 const introdata = {
@@ -13,7 +13,7 @@ const introdata = {
     third: "I develop mobile apps",
   },
   description:
-    "Results-oriented Frontend Developer with 2+ years of experience in building dynamic, responsive web applications. Proficient in React, Redux, JavaScript, TypeScript, and RESTful APIs.",
+    "Result-oriented Frontend Developer with 3+ years of experience in building dynamic, responsive web applications. Proficient in React, Redux, JavaScript, TypeScript, and RESTful APIs.",
   your_img_url: "./profile-pic.jpg",
 };
 
@@ -63,6 +63,10 @@ const skills = [
     value: 85,
   },
   {
+    name: "Ant Design",
+    value: 90,
+  },
+  {
     name: "Node JS",
     value: 70,
   },
@@ -84,7 +88,7 @@ const services = [
   {
     title: "Website Development",
     description:
-      "I bring 2+ years of experience in building modern, responsive, and dynamic web applications using React. I specialize in developing clean, efficient, and scalable code to create websites that are both visually appealing and highly functional. From building reusable components to optimizing performance, I ensure that every project meets industry standards and delivers a seamless experience across devices.",
+      "I bring 3+ years of experience in building modern, responsive, and dynamic web applications using React. I specialize in developing clean, efficient, and scalable code to create websites that are both visually appealing and highly functional. From building reusable components to optimizing performance, I ensure that every project meets industry standards and delivers a seamless experience across devices.",
   },
   {
     title: "UI & UX Design",
@@ -99,6 +103,12 @@ const services = [
 ];
 
 const dataportfolio = [
+  {
+    img: "images/food-products.jpg",
+    description:
+      "Web application that allows users to search, filter, and view detailed information about food products.",
+    link: "https://food-product-explorer-two.vercel.app/",
+  },
   {
     img: "images/task-management.jpg",
     description:
