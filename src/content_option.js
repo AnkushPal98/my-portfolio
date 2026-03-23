@@ -20,13 +20,18 @@ const introdata = {
 const dataabout = {
   title: "Abit about my self",
   aboutme:
-    "I have graduated in 2020 with majors computer science engineering from Bharat Institute of Technology. From past 3 years I have been exploring the frontend development field majorly focused on React.js and Angular framework. With a passion for user-centric design, I've contributed to dynamic content loading and real-time data updates, ensuring responsive UI/UX that aligns with our clients needs.",
+    "My Bachelor of Technology in Computer Science from Bharat Institute of Technology has provided a strong foundation for my technical expertise. As a Software Engineer with 4+ years of experience, I specialize in building scalable and high-performance web applications using Next.js, React.js and Redux. I focus on writing clean, modular, and reusable code while ensuring seamless integration with RESTful APIs. My approach to performance optimization contributed to a 30% improvement in page load times, significantly enhancing the overall user experience.",
 };
 const worktimeline = [
+    {
+    jobtitle: "Senior Software Engineer",
+    where: "Buddy4Study",
+    date: "May 2025 - Present",
+  },
   {
     jobtitle: "SDE-II",
     where: "Chaitanya Projects Consultancy Private Limited",
-    date: "Dec 2024 - Present",
+    date: "Dec 2024 - May 2025",
   },
   {
     jobtitle: "Product Engineer",
@@ -46,8 +51,12 @@ const worktimeline = [
 ];
 
 const skills = [
+    {
+    name: "Next.js",
+    value: 90,
+  },
   {
-    name: "React",
+    name: "React.js",
     value: 90,
   },
   {
@@ -88,7 +97,7 @@ const services = [
   {
     title: "Website Development",
     description:
-      "I bring 3+ years of experience in building modern, responsive, and dynamic web applications using React. I specialize in developing clean, efficient, and scalable code to create websites that are both visually appealing and highly functional. From building reusable components to optimizing performance, I ensure that every project meets industry standards and delivers a seamless experience across devices.",
+      "I bring 4+ years of experience in building modern, responsive, and dynamic web applications using Next.js and React.js. I specialize in developing clean, efficient, and scalable code to create websites that are both visually appealing and highly functional. From building reusable components to optimizing performance, I ensure that every project meets industry standards and delivers a seamless experience across devices.",
   },
   {
     title: "UI & UX Design",
